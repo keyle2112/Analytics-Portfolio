@@ -7,3 +7,16 @@ Alongside my academic work, I’ve gained experience in live and culture-driven 
 
 This repository highlights my work across Python, SQL, and data analysis projects, with a growing focus on music and entertainment applications.
 
+## Table of Contents
+* About
+* Projects
+* Skills 
+  * Python
+  * SQL
+  * R
+  * Excel/Google Sheets
+  * Tableau
+  * Power BI
+  * APIs
+* Education
+*  Contact
