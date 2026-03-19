@@ -10,7 +10,6 @@ This repository highlights my work across Python, SQL, and data analysis project
 ## Table of Contents
 * About
 * Projects
-* Skills 
   * Python
   * SQL
   * R
@@ -20,3 +19,11 @@ This repository highlights my work across Python, SQL, and data analysis project
   * APIs
 * Education
 *  Contact
+
+## Projects 
+
+##Education 
+
+##Contact 
+* LinkedIn:
+* Email: 
