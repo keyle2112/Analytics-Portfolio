@@ -25,5 +25,5 @@ This repository highlights my work across Python, SQL, and data analysis project
 ## Education 
 
 ## Contact 
-* LinkedIn:
-* Email: 
+* LinkedIn: [https://www.linkedin.com/in/keynesle/](https://www.linkedin.com/in/keynesle/)
+* Email: [key_2112@berkeley.edu](mailto:key_2112@berkeley.edu)
