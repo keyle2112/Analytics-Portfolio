@@ -24,6 +24,6 @@ This repository highlights my work across Python, SQL, and data analysis project
 
 ## Education 
 
-##Contact 
+## Contact 
 * LinkedIn:
 * Email: 
