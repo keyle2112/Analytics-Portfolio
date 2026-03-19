@@ -22,7 +22,7 @@ This repository highlights my work across Python, SQL, and data analysis project
 
 ## Projects 
 
-##Education 
+## Education 
 
 ##Contact 
 * LinkedIn:
