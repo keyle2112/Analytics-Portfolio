@@ -24,7 +24,7 @@ This repository highlights my work across Python, SQL, and data analysis project
 
 ## Education 
 ## Education
-University of California, Berkeley, College of Letters and Science - Bachelor of Arts, Economics, Minors in Data Science and Journalism 
+University of California, Berkeley, College of Letters and Science - Bachelor of Arts, Economics, Minors in Data Science and Journalism <br>
 (January 2024 - December 2025) 
 
 
