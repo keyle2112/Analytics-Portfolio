@@ -11,8 +11,23 @@ This repository highlights my work across Python, SQL, and data analysis project
 * About
 * Projects
   * Python
-  * SQL
+     * Email Spam Classification System
+     * Cook Couunty Housing Price Prediction
+     * Climate Change & Civil Conflict
+     * Economic Impact Analysis: Mariel Boatlift
+     * Reguional GDP Analysis
+     * Ants: Data-Driven Tower Defense Game
+     * CATS: Typing Autocorrect System
+     * Classifying Movies (K-Nearest Neighbors)
+     * Climate Change; Temperatures and Precipitation
+     * World Population and Poverty 
   * R
+     * NBA Salary
+     * Climate Change & Civil Conflict
+     * Minimum Wage Policy & Foreign Investment
+     * Econometrics Analysis of MLB Salary Disparities
+     * Predicting Baseball Wins 
+  * SQL
   * Excel/Google Sheets
   * Tableau
   * Power BI
