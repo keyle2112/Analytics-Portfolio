@@ -36,6 +36,8 @@ This repository highlights my work across Python, SQL, and data analysis project
 *  Contact
 
 ## Projects 
+### Email Spam Classification System 
+
 *insert summary sentence when all projects are added* <br>
 
 Code: <br> 
@@ -52,7 +54,7 @@ Results: The model achieved an accuracy of over 90%, with performance optimized 
 
 Impact: Demonstrates how classification systems must balance accuracy with real-world risks, such as filtering legitimate communication. <br> 
 
-### Email Spam Classification System 
+
 
 
 
