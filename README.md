@@ -36,7 +36,7 @@ This repository highlights my work across Python, SQL, and data analysis project
 *  Contact
 
 ## Projects 
-# Email Spam Classification System 
+### Email Spam Classification System 
 
 
 
