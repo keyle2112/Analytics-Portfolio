@@ -54,7 +54,7 @@ Results: The model achieved an accuracy of over 90%, with performance optimized 
 
 Impact: Demonstrates how classification systems must balance accuracy with real-world risks, such as filtering legitimate communication. <br> 
 
-## NBA Salary Determinants 
+### NBA Salary Determinants 
 
 Code: <br> 
 
