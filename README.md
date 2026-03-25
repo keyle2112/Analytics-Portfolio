@@ -37,12 +37,19 @@ This repository highlights my work across Python, SQL, and data analysis project
 
 ## Projects 
 *insert summary sentence when all projects are added* <br>
+
 Code: <br> 
+
 Goal: To build a text-based classification model that distinguishes spam from legitimate emails while minimizing false positives. <br>
+
 Description: This project involved constructing a supervised machine learning pipeline for email classification using a dataset comprising over 5,000 messages. The workflow included text preprocessing, feature engineering, model training, and evaluation. Key features were derived using regex-based pattern extraction, word frequency metrics, and text statistics, including email length, punctuation counts, and capitalization patterns. <br>
+
 Skills: Feature engineering, text preprocessing, classification modeling, cross-validation, model evaluation (precision-recall, ROC analysis). <br>
+
 Technology: Python, Pandas, scikit-learn, NumPy, regex <br> 
+
 Results: The model achieved an accuracy of over 90%, with performance optimized through multiple iterations of hyperparameter tuning. Evaluation using precision-recall curves helped balance spam detection with the risk of false positives, highlighting trade-offs relevant to real-world deployment. <br> 
+
 Impact: Demonstrates how classification systems must balance accuracy with real-world risks, such as filtering legitimate communication. <br> 
 
 ### Email Spam Classification System 
