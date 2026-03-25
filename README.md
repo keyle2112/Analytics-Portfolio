@@ -54,6 +54,22 @@ Results: The model achieved an accuracy of over 90%, with performance optimized 
 
 Impact: Demonstrates how classification systems must balance accuracy with real-world risks, such as filtering legitimate communication. <br> 
 
+## NBA Salary Determinants 
+
+Code: <br> 
+
+Description: I applied econometric regression techniques to analyze salary determinants for 269 NBA players from the 1994–95 season. I used log-transformed salary data to address skewness and incorporated performance metrics, experience, position, and race as explanatory variables. I evaluated how on-court productivity translated into wages using both simple and multivariate OLS models. <br> 
+
+Skills: Econometric modeling, OLS regression, data transformation, statistical analysis, hypothesis testing <br>
+
+Technology: R, tidyverse, regression modeling, data visualization <br>
+
+Results: The analysis found that scoring and experience were the strongest predictors of salary, while race and position were not statistically significant after controlling for performance. Results suggest that observable productivity explains much of wage variation, though unobserved factors may still influence compensation. <br>
+
+Impact: Highlights the role of econometric analysis in revealing key drivers of compensation and providing an evidence-based approach to assessing pay equity in professional sports. <br> 
+                                                                                                          
+
+
 
 
 
