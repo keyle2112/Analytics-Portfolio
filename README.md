@@ -96,6 +96,24 @@ Results: Found significant relationships between climate anomalies and increased
 
 Impact: Demonstrates how data can inform policy discussions on climate vulnerability and conflict risk. <br>
 
+## Minimum Wage Policy & Foreign Investment 
+
+Code: 
+
+Description: Conducted panel econometric analysis to examine how minimum wage policies and labor availability influence FDI inflows in Southeast Asia. Integrated datasets from ILOSTAT and the World Bank, controlling for macroeconomic variables. Applied fixed effects models to isolate labor policy impacts. <br> 
+
+Skills: Econometrics, panel data analysis, data cleaning, policy analysis, regression modeling <br>
+
+Technology: R, tidyverse, regression modeling <br>
+
+Results: Found that labor availability is a stronger driver of FDI than low wages. Rising minimum wages did not significantly deter investment when supported by strong labor participation. <br> 
+
+Impact: Provides insight into labor policy design for emerging economies competing in global manufacturing. <br> 
+
+
+
+
+
 
                                                                                                           
 
