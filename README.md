@@ -40,7 +40,9 @@ This repository highlights my work across Python, SQL, and data analysis project
 
 ### Email Spam Classification System 
 
-Code: <br> 
+November 2025 - December 2025 <br>
+
+Code: 
 
 Goal: To build a text-based classification model that distinguishes spam from legitimate emails while minimizing false positives. <br>
 
@@ -56,6 +58,8 @@ Impact: Demonstrates how classification systems must balance accuracy with real-
 
 ### NBA Salary Determinants 
 
+September 2025 - December 2025 <br> 
+
 Code: <br> 
 
 Description: I applied econometric regression techniques to analyze salary determinants for 269 NBA players from the 1994–95 season. I used log-transformed salary data to address skewness and incorporated performance metrics, experience, position, and race as explanatory variables. I evaluated how on-court productivity translated into wages using both simple and multivariate OLS models. <br> 
@@ -69,6 +73,8 @@ Results: The analysis found that scoring and experience were the strongest predi
 Impact: Highlights the role of econometric analysis in revealing key drivers of compensation and providing an evidence-based approach to assessing pay equity in professional sports. <br> 
 
 ### Cook County Housing Price Prediction 
+
+October 2025 
 
 Code: 
 
@@ -84,6 +90,8 @@ Impact: Highlights how predictive models can introduce bias and the importance o
 
 ### Climate Change & Civil Conflict
 
+April 2025 - May 2025 
+
 Code: 
 
 Description: Constructed a panel dataset integrating climate, agricultural, and conflict data to analyze how environmental shocks influence civil conflict risk. Applied fixed effects regression to isolate temperature and precipitation effects while controlling for country and time factors. Replicated a foundational climate-conflict economics study. <br> 
@@ -97,6 +105,8 @@ Results: Found significant relationships between climate anomalies and increased
 Impact: Demonstrates how data can inform policy discussions on climate vulnerability and conflict risk. <br>
 
 ### Minimum Wage Policy & Foreign Investment 
+
+January 2025 - May 2025 <br>
 
 Code: 
 
@@ -112,6 +122,8 @@ Impact: Provides insight into labor policy design for emerging economies competi
 
 ### Economic Impact Analysis Mariel Boatlift 
 
+February 2025 - March 2025 <br>
+
 Code: 
 
 Description: Replicated a Nobel Prize-winning natural experiment analyzing the labor market impact of immigration using 26,000+ survey records. Conducted comparative trend analysis across metropolitan areas and applied OLS regression with engineered variables. Focused on identifying causal effects from labor supply shocks. <br>
@@ -126,6 +138,8 @@ Impact: Demonstrates how empirical analysis can challenge common assumptions abo
 
 ### Regional GDP Analysis 
 
+February 2025 <br> 
+
 Code: 
 
 Description: Analyzed U.S. county-level GDP data (2001–2021) to evaluate regional economic trends and recovery patterns. Processed and reshaped large datasets (47k+ records to 718k rows) for analysis. Developed geospatial visualizations to identify growth disparities across regions. <br> 
@@ -138,7 +152,9 @@ Results: Identified stronger post-2008 recovery in coastal regions compared to t
 
 Impact: Provides a data-driven view of regional inequality and economic concentration in the U.S. <br> 
 
-### MLB Salary Disparities Analysis 
+### Econometrics Analysis of MLB Salary Disparities Analysis 
+
+November 2024 - December 2024 <br> 
 
 Code: 
 
@@ -154,29 +170,99 @@ Impact: Demonstrates application of econometrics in evaluating fairness and comp
 
 ### Ants: Data-Driven Tower Defense Game 
 
+November 2024 <br>
+
+Code: 
+
+Description: Developed a tower defense game using object-oriented programming concepts, including classes, inheritance, and method design. Implemented gameplay mechanics such as pathfinding, attack systems, and resource management. Focused on modular design and extensibility.
+
+Skills: Object-oriented programming, algorithm design, problem-solving, software development, debugging
+
+Technology: Python
+
+Results: Successfully built a fully functional game with dynamic interactions and scalable design. Demonstrated strong understanding of OOP principles.
+
+Impact: Shows ability to apply programming concepts to build complex, interactive systems.
+
 ### CATS: Typing Autocorrect System
 
-### Movie Genre Classification K-NN 
+October 2024 - November 2024 <br>
+
+Code:
+
+Description: Designed a typing software system to measure speed and accuracy while implementing autocorrect functionality. Used recursive algorithms and dynamic programming for string comparison. Included multiplayer and real-time feedback features.
+
+Skills: Algorithms, recursion, dynamic programming, string processing, software development
+
+Technology: Python
+
+Results: Developed efficient autocorrect and accuracy algorithms with real-time performance tracking. Improved typing feedback accuracy and responsiveness.
+
+Impact: Demonstrates ability to build optimized algorithms for user-facing applications.
+
+### Classifying Movies K-NN
+
+April 2024 <br>
+
+Code: 
+
+Description: Built a k-nearest neighbors classifier to predict movie genres based on keyword frequency in scripts. Engineered custom features and applied Euclidean distance for classification. Evaluated model performance across different feature sets.
+
+Skills: Machine learning, feature engineering, classification, data analysis, model evaluation
+
+Technology: Python, scikit-learn, pandas
+
+Results: Improved classification accuracy through feature selection and distance tuning. Identified key word associations driving genre prediction.
+
+Impact: Illustrates how text-based features can be used to model content classification.
 
 ### Climate Change: Temperature & Precipitation Analysis 
 
+March 2024 - April 2024 <br>
+
+Code: 
+
+Description: Analyzed temperature and precipitation trends across 210 U.S. cities to study long-term climate patterns. Applied hypothesis testing and confidence intervals to evaluate changes. Conducted A/B testing on drought conditions.
+
+Skills: Statistical analysis, hypothesis testing, data visualization, data analysis, inference
+
+Technology: Python, pandas, matplotlib 
+
+Results: Identified statistically significant warming trends across cities. Found measurable differences in precipitation patterns during drought periods.
+
+Impact: Demonstrates use of statistical methods to analyze environmental trends.
+
 ### Predicting Baseball Wins: Least Squares Regression
+
+March 2024 - April 2024 <br> 
+
+Code: 
+
+Description: Developed regression models to predict MLB team wins using performance metrics such as runs scored and allowed. Applied simple and multiple regression techniques. Incorporated transformations to improve model fit. 
+
+Skills: Regression analysis, statistical modeling, data analysis, model evaluation, sports analytics 
+
+Technology: R 
+
+Results: Improved model accuracy using additional variables and transformations. Found strong relationships between run differential and team success. 
+
+Impact: Shows application of regression modeling in sports performance analysis. 
 
 ### World Population & Poverty Analysis 
 
+February 2024 <br>
 
+Code: 
 
+Description: Analyzed global population and poverty trends across 145 countries using statistical visualization techniques. Explored relationships between life expectancy, fertility, and economic conditions. Included case study analysis of demographic changes.
 
+Skills: Data visualization, statistical analysis, exploratory data analysis, data interpretation, global analysis
 
+Technology: Python, pandas, matplotlib
 
+Results: Identified strong relationships between development indicators and population dynamics. Highlighted patterns in global poverty reduction.
 
-
-                                                                                                          
-
-
-
-
-
+Impact: Provides insights into global inequality and demographic change using data analysis.
 
 ## Education
 University of California, Berkeley, College of Letters and Science - Bachelor of Arts, Economics, Minors in Data Science and Journalism <br>
