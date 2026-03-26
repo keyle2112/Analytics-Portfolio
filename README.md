@@ -96,7 +96,7 @@ Results: Found significant relationships between climate anomalies and increased
 
 Impact: Demonstrates how data can inform policy discussions on climate vulnerability and conflict risk. <br>
 
-## Minimum Wage Policy & Foreign Investment 
+### Minimum Wage Policy & Foreign Investment 
 
 Code: 
 
@@ -109,6 +109,20 @@ Technology: R, tidyverse, regression modeling <br>
 Results: Found that labor availability is a stronger driver of FDI than low wages. Rising minimum wages did not significantly deter investment when supported by strong labor participation. <br> 
 
 Impact: Provides insight into labor policy design for emerging economies competing in global manufacturing. <br> 
+
+### Economic Impact Analysis Mariel Boatlift 
+
+Code: 
+
+Description: Replicated a Nobel Prize-winning natural experiment analyzing the labor market impact of immigration using 26,000+ survey records. Conducted comparative trend analysis across metropolitan areas and applied OLS regression with engineered variables. Focused on identifying causal effects from labor supply shocks. <br>
+
+Skills: Causal inference, OLS regression, data analysis, feature engineering, data visualization <br>
+
+Technology: Python, pandas, NumPy, matplotlib <br>
+
+Results: Found no statistically significant negative impact on wages despite a 7% labor force increase. Results supported conclusions from the original study. <br> 
+
+Impact: Demonstrates how empirical analysis can challenge common assumptions about immigration and labor markets. <br>
 
 
 
