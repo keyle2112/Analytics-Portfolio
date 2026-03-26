@@ -42,7 +42,7 @@ This repository highlights my work across Python, SQL, and data analysis project
 
 November 2025 - December 2025 <br>
 
-Code: [Part 1 Notebook](projects/projB1.ipynb) | [Part 1 PDF](projects/projB1.pdf) | [Part 2 Notebook](projects/projB2.ipynb) | [Part 2 PDF](projects/projB2.pdf) <br>
+Code and PDF: [Part 1 Notebook](projects/projB1.ipynb) | [Part 1 PDF](projects/projB1.pdf) | [Part 2 Notebook](projects/projB2.ipynb) | [Part 2 PDF](projects/projB2.pdf) <br>
 
 Goal: To build a text-based classification model that distinguishes spam from legitimate emails while minimizing false positives. <br>
 
@@ -60,7 +60,7 @@ Impact: Demonstrates how classification systems must balance accuracy with real-
 
 September 2025 - December 2025 <br>
 
-Code: [PDF](projects/Labor%20Economics%20NBA%20Salary%20Determinants%20Project.pdf) <br>
+PDF: [PDF](projects/Labor%20Economics%20NBA%20Salary%20Determinants%20Project.pdf) <br>
 
 Description: I applied econometric regression techniques to analyze salary determinants for 269 NBA players from the 1994–95 season. I used log-transformed salary data to address skewness and incorporated performance metrics, experience, position, and race as explanatory variables. I evaluated how on-court productivity translated into wages using both simple and multivariate OLS models. <br> 
 
