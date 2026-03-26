@@ -38,11 +38,11 @@ This repository highlights my work across Python, SQL, and data analysis project
 ## Projects 
 *insert summary sentence when all projects are added* <br>
 
-### Email Spam Classification System 
+### Email Spam Classification System
 
 November 2025 - December 2025 <br>
 
-Code: 
+Code: [Part 1 Notebook](projects/projB1.ipynb) | [Part 1 PDF](projects/projB1.pdf) | [Part 2 Notebook](projects/projB2.ipynb) | [Part 2 PDF](projects/projB2.pdf) <br>
 
 Goal: To build a text-based classification model that distinguishes spam from legitimate emails while minimizing false positives. <br>
 
@@ -56,11 +56,11 @@ Results: The model achieved an accuracy of over 90%, with performance optimized 
 
 Impact: Demonstrates how classification systems must balance accuracy with real-world risks, such as filtering legitimate communication. <br> 
 
-### NBA Salary Determinants 
+### NBA Salary Determinants
 
-September 2025 - December 2025 <br> 
+September 2025 - December 2025 <br>
 
-Code: <br> 
+Code: [PDF](projects/Labor%20Economics%20NBA%20Salary%20Determinants%20Project.pdf) <br>
 
 Description: I applied econometric regression techniques to analyze salary determinants for 269 NBA players from the 1994–95 season. I used log-transformed salary data to address skewness and incorporated performance metrics, experience, position, and race as explanatory variables. I evaluated how on-court productivity translated into wages using both simple and multivariate OLS models. <br> 
 
@@ -72,11 +72,11 @@ Results: The analysis found that scoring and experience were the strongest predi
 
 Impact: Highlights the role of econometric analysis in revealing key drivers of compensation and providing an evidence-based approach to assessing pay equity in professional sports. <br> 
 
-### Cook County Housing Price Prediction 
+### Cook County Housing Price Prediction
 
-October 2025 
+October 2025 <br>
 
-Code: 
+Code: [Part 1 Notebook](projects/projA1.ipynb) | [Part 1 PDF](projects/projA1.pdf) | [Part 2 Notebook](projects/projA2.ipynb) | [Part 2 PDF](projects/projA2.pdf) <br>
 
 Description: Built a machine learning model to predict housing prices using 500k+ records, applying feature engineering techniques such as text mining, log transformations, and one-hot encoding. Developed a full pipeline including preprocessing, training, and evaluation using scikit-learn. Incorporated fairness analysis to assess model bias across socioeconomic groups. <br>
 
@@ -90,9 +90,9 @@ Impact: Highlights how predictive models can introduce bias and the importance o
 
 ### Climate Change & Civil Conflict
 
-April 2025 - May 2025 
+April 2025 - May 2025 <br>
 
-Code: 
+Code: [PDF](projects/Econ%20148%20Climate%20Change%20%26%20Civil%20Conflict.pdf) <br>
 
 Description: Constructed a panel dataset integrating climate, agricultural, and conflict data to analyze how environmental shocks influence civil conflict risk. Applied fixed effects regression to isolate temperature and precipitation effects while controlling for country and time factors. Replicated a foundational climate-conflict economics study. <br> 
 
@@ -104,11 +104,11 @@ Results: Found significant relationships between climate anomalies and increased
 
 Impact: Demonstrates how data can inform policy discussions on climate vulnerability and conflict risk. <br>
 
-### Minimum Wage Policy & Foreign Investment 
+### Minimum Wage Policy & Foreign Investment
 
 January 2025 - May 2025 <br>
 
-Code: 
+Code: [PDF](projects/Minimum%20Wage%20Policy%20%26%20Foreign%20Investment.pdf) <br>
 
 Description: Conducted panel econometric analysis to examine how minimum wage policies and labor availability influence FDI inflows in Southeast Asia. Integrated datasets from ILOSTAT and the World Bank, controlling for macroeconomic variables. Applied fixed effects models to isolate labor policy impacts. <br> 
 
@@ -120,11 +120,11 @@ Results: Found that labor availability is a stronger driver of FDI than low wage
 
 Impact: Provides insight into labor policy design for emerging economies competing in global manufacturing. <br> 
 
-### Economic Impact Analysis Mariel Boatlift 
+### Economic Impact Analysis Mariel Boatlift
 
 February 2025 - March 2025 <br>
 
-Code: 
+Code: [Project Files](projects/Econ%20148%20Economic%20Impact%20Analysis.zip) <br>
 
 Description: Replicated a Nobel Prize-winning natural experiment analyzing the labor market impact of immigration using 26,000+ survey records. Conducted comparative trend analysis across metropolitan areas and applied OLS regression with engineered variables. Focused on identifying causal effects from labor supply shocks. <br>
 
@@ -136,11 +136,11 @@ Results: Found no statistically significant negative impact on wages despite a 7
 
 Impact: Demonstrates how empirical analysis can challenge common assumptions about immigration and labor markets. <br>
 
-### Regional GDP Analysis 
+### Regional GDP Analysis
 
-February 2025 <br> 
+February 2025 <br>
 
-Code: 
+Code: [Project Files](projects/Econ%20148%20Regional%20GDP%20Analysis.zip) <br>
 
 Description: Analyzed U.S. county-level GDP data (2001–2021) to evaluate regional economic trends and recovery patterns. Processed and reshaped large datasets (47k+ records to 718k rows) for analysis. Developed geospatial visualizations to identify growth disparities across regions. <br> 
 
@@ -152,11 +152,11 @@ Results: Identified stronger post-2008 recovery in coastal regions compared to t
 
 Impact: Provides a data-driven view of regional inequality and economic concentration in the U.S. <br> 
 
-### Econometrics Analysis of MLB Salary Disparities Analysis 
+### Econometrics Analysis of MLB Salary Disparities Analysis
 
-November 2024 - December 2024 <br> 
+November 2024 - December 2024 <br>
 
-Code: 
+Code: [PDF](projects/Econometrics%20Analysis%20of%20MLB%20Salary%20Disparities.pdf) <br>
 
 Description: Analyzed MLB salary determinants using regression models to evaluate the impact of race, city demographics, and performance metrics. Applied econometric techniques to control for confounding variables. Explored potential bias and omitted variable effects. <br>
 
@@ -168,11 +168,11 @@ Results: Found performance metrics to be the strongest predictors of salary, wit
 
 Impact: Demonstrates application of econometrics in evaluating fairness and compensation structures. <br> 
 
-### Ants: Data-Driven Tower Defense Game 
+### Ants: Data-Driven Tower Defense Game
 
 November 2024 <br>
 
-Code: 
+Code: [Project Files](projects/Data%20C88C%20Ants.zip) <br>
 
 Description: Developed a tower defense game using object-oriented programming concepts, including classes, inheritance, and method design. Implemented gameplay mechanics such as pathfinding, attack systems, and resource management. Focused on modular design and extensibility.
 
@@ -188,7 +188,7 @@ Impact: Shows ability to apply programming concepts to build complex, interactiv
 
 October 2024 - November 2024 <br>
 
-Code:
+Code: [Project Files](projects/Data%20C88C%20Cats.zip) <br>
 
 Description: Designed a typing software system to measure speed and accuracy while implementing autocorrect functionality. Used recursive algorithms and dynamic programming for string comparison. Included multiplayer and real-time feedback features.
 
@@ -204,7 +204,7 @@ Impact: Demonstrates ability to build optimized algorithms for user-facing appli
 
 April 2024 <br>
 
-Code: 
+Code: [Project Files](projects/Data%208%20Project%203%20Classification.zip) <br>
 
 Description: Built a k-nearest neighbors classifier to predict movie genres based on keyword frequency in scripts. Engineered custom features and applied Euclidean distance for classification. Evaluated model performance across different feature sets.
 
@@ -216,11 +216,11 @@ Results: Improved classification accuracy through feature selection and distance
 
 Impact: Illustrates how text-based features can be used to model content classification.
 
-### Climate Change: Temperature & Precipitation Analysis 
+### Climate Change: Temperature & Precipitation Analysis
 
 March 2024 - April 2024 <br>
 
-Code: 
+Code: [Project Files](projects/Data%208%20Project%202%20Climate%20Change%20Temperatures%20and%20Precipitation.zip) <br>
 
 Description: Analyzed temperature and precipitation trends across 210 U.S. cities to study long-term climate patterns. Applied hypothesis testing and confidence intervals to evaluate changes. Conducted A/B testing on drought conditions.
 
@@ -234,9 +234,9 @@ Impact: Demonstrates use of statistical methods to analyze environmental trends.
 
 ### Predicting Baseball Wins: Least Squares Regression
 
-March 2024 - April 2024 <br> 
+March 2024 - April 2024 <br>
 
-Code: 
+Code: [PDF](projects/Predicting%20Baseball%20Wins%20Project.pdf) <br>
 
 Description: Developed regression models to predict MLB team wins using performance metrics such as runs scored and allowed. Applied simple and multiple regression techniques. Incorporated transformations to improve model fit. 
 
@@ -248,11 +248,11 @@ Results: Improved model accuracy using additional variables and transformations.
 
 Impact: Shows application of regression modeling in sports performance analysis. 
 
-### World Population & Poverty Analysis 
+### World Population & Poverty Analysis
 
 February 2024 <br>
 
-Code: 
+Code: [Project Files](projects/Data%208%20Project%201%20World%20Population%20and%20Poverty.zip) <br>
 
 Description: Analyzed global population and poverty trends across 145 countries using statistical visualization techniques. Explored relationships between life expectancy, fertility, and economic conditions. Included case study analysis of demographic changes.
 
