@@ -8,32 +8,32 @@ Alongside my academic work, I’ve gained experience in live and culture-driven 
 This repository highlights my work across Python, SQL, and data analysis projects, with a growing focus on music and entertainment applications.
 
 ## Table of Contents
-* About
-* Projects
+* [About](#about)
+* [Projects](#projects)
   * Python
-     * Email Spam Classification System
-     * Cook Couunty Housing Price Prediction
-     * Climate Change & Civil Conflict
-     * Economic Impact Analysis: Mariel Boatlift
-     * Reguional GDP Analysis
-     * Ants: Data-Driven Tower Defense Game
-     * CATS: Typing Autocorrect System
-     * Classifying Movies (K-Nearest Neighbors)
-     * Climate Change; Temperatures and Precipitation
-     * World Population and Poverty 
+     * [Email Spam Classification System](#email-spam-classification-system)
+     * [Cook County Housing Price Prediction](#cook-county-housing-price-prediction)
+     * [Climate Change & Civil Conflict](#climate-change--civil-conflict)
+     * [Economic Impact Analysis: Mariel Boatlift](#economic-impact-analysis-mariel-boatlift)
+     * [Regional GDP Analysis](#regional-gdp-analysis)
+     * [Ants: Data-Driven Tower Defense Game](#ants-data-driven-tower-defense-game)
+     * [CATS: Typing Autocorrect System](#cats-typing-autocorrect-system)
+     * [Classifying Movies (K-Nearest Neighbors)](#classifying-movies-k-nn)
+     * [Climate Change: Temperatures and Precipitation](#climate-change-temperature--precipitation-analysis)
+     * [World Population and Poverty](#world-population--poverty-analysis)
   * R
-     * NBA Salary
-     * Climate Change & Civil Conflict
-     * Minimum Wage Policy & Foreign Investment
-     * Econometrics Analysis of MLB Salary Disparities
-     * Predicting Baseball Wins 
+     * [NBA Salary](#nba-salary-determinants)
+     * [Climate Change & Civil Conflict](#climate-change--civil-conflict)
+     * [Minimum Wage Policy & Foreign Investment](#minimum-wage-policy--foreign-investment)
+     * [Econometrics Analysis of MLB Salary Disparities](#econometrics-analysis-of-mlb-salary-disparities-analysis)
+     * [Predicting Baseball Wins](#predicting-baseball-wins-least-squares-regression)
   * SQL
   * Excel/Google Sheets
   * Tableau
   * Power BI
   * APIs
-* Education
-*  Contact
+* [Education](#education)
+* [Contact](#contact)
 
 ## Projects 
 *insert summary sentence when all projects are added* <br>
