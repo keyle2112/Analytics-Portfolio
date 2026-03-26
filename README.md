@@ -7,7 +7,7 @@ Alongside my academic work, I’ve gained experience in live and culture-driven 
 
 This repository highlights my work across Python, SQL, and data analysis projects, with a growing focus on music and entertainment applications.
 
-For a broader view of my work across culture, live production, and creative projects, visit my personal website: [keynesle.com](https://keynesle.com)
+For a broader view of my work across culture, live production, and creative projects, visit my [personal website](https://keynesle.com).
 
 ## Table of Contents
 * [About](#about)
