@@ -67,6 +67,20 @@ Technology: R, tidyverse, regression modeling, data visualization <br>
 Results: The analysis found that scoring and experience were the strongest predictors of salary, while race and position were not statistically significant after controlling for performance. Results suggest that observable productivity explains much of wage variation, though unobserved factors may still influence compensation. <br>
 
 Impact: Highlights the role of econometric analysis in revealing key drivers of compensation and providing an evidence-based approach to assessing pay equity in professional sports. <br> 
+
+## Cook County Housing Price Prediction 
+
+Code: 
+
+Description: Built a machine learning model to predict housing prices using 500k+ records, applying feature engineering techniques such as text mining, log transformations, and one-hot encoding. Developed a full pipeline including preprocessing, training, and evaluation using scikit-learn. Incorporated fairness analysis to assess model bias across socioeconomic groups. <br>
+
+Skills: Machine learning, feature engineering, model evaluation, data cleaning, fairness analysis <br>
+
+Technology: Python, pandas, scikit-learn, NumPy, matplotlib <br>
+
+Results: Achieved strong predictive performance through K-fold cross-validation and metric comparison (RMSE vs. MAPE). Identified a 15–20% overestimation bias in lower-priced neighborhoods. <br>
+
+Impact: Highlights how predictive models can introduce bias and the importance of evaluating fairness in real-world applications. <br>
                                                                                                           
 
 
