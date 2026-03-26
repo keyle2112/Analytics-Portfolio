@@ -54,7 +54,6 @@ Results: The model achieved an accuracy of over 90%, with performance optimized 
 
 Impact: Demonstrates how classification systems must balance accuracy with real-world risks, such as filtering legitimate communication. <br> 
 
-
 ### NBA Salary Determinants 
 
 Code: <br> 
@@ -68,7 +67,6 @@ Technology: R, tidyverse, regression modeling, data visualization <br>
 Results: The analysis found that scoring and experience were the strongest predictors of salary, while race and position were not statistically significant after controlling for performance. Results suggest that observable productivity explains much of wage variation, though unobserved factors may still influence compensation. <br>
 
 Impact: Highlights the role of econometric analysis in revealing key drivers of compensation and providing an evidence-based approach to assessing pay equity in professional sports. <br> 
-
 
 ### Cook County Housing Price Prediction 
 
@@ -84,7 +82,6 @@ Results: Achieved strong predictive performance through K-fold cross-validation 
 
 Impact: Highlights how predictive models can introduce bias and the importance of evaluating fairness in real-world applications. <br>
 
-
 ### Climate Change & Civil Conflict
 
 Code: 
@@ -98,7 +95,6 @@ Technology: Python, R, pandas, statsmodels <br>
 Results: Found significant relationships between climate anomalies and increased conflict risk in certain contexts. Results aligned with established academic findings. <br> 
 
 Impact: Demonstrates how data can inform policy discussions on climate vulnerability and conflict risk. <br>
-
 
 ### Minimum Wage Policy & Foreign Investment 
 
@@ -114,7 +110,6 @@ Results: Found that labor availability is a stronger driver of FDI than low wage
 
 Impact: Provides insight into labor policy design for emerging economies competing in global manufacturing. <br> 
 
-
 ### Economic Impact Analysis Mariel Boatlift 
 
 Code: 
@@ -129,7 +124,49 @@ Results: Found no statistically significant negative impact on wages despite a 7
 
 Impact: Demonstrates how empirical analysis can challenge common assumptions about immigration and labor markets. <br>
 
-### Regional 
+### Regional GDP Analysis 
+
+Code: 
+
+Description: Analyzed U.S. county-level GDP data (2001–2021) to evaluate regional economic trends and recovery patterns. Processed and reshaped large datasets (47k+ records to 718k rows) for analysis. Developed geospatial visualizations to identify growth disparities across regions. <br> 
+
+Skills: Data cleaning, time-series analysis, data transformation, geospatial analysis, data visualization <br>
+
+Technology: Python, pandas, matplotlib, geopandas <br>
+
+Results: Identified stronger post-2008 recovery in coastal regions compared to the Midwest. Revealed concentrated growth in urban and tech-driven areas. <br> 
+
+Impact: Provides a data-driven view of regional inequality and economic concentration in the U.S. <br> 
+
+### MLB Salary Disparities Analysis 
+
+Code: 
+
+Description: Analyzed MLB salary determinants using regression models to evaluate the impact of race, city demographics, and performance metrics. Applied econometric techniques to control for confounding variables. Explored potential bias and omitted variable effects. <br>
+
+Skills: Econometrics, regression analysis, bias analysis, statistical modeling, data interpretation <br> 
+
+Technology: R, regression modeling <br> 
+
+Results: Found performance metrics to be the strongest predictors of salary, with limited influence from demographic variables. Highlighted potential omitted variable bias. <br>
+
+Impact: Demonstrates application of econometrics in evaluating fairness and compensation structures. <br> 
+
+### Ants: Data-Driven Tower Defense Game 
+
+### CATS: Typing Autocorrect System
+
+### Movie Genre Classification K-NN 
+
+### Climate Change: Temperature & Precipitation Analysis 
+
+### Predicting Baseball Wins: Least Squares Regression
+
+### World Population & Poverty Analysis 
+
+
+
+
 
 
 
