@@ -68,7 +68,7 @@ Results: The analysis found that scoring and experience were the strongest predi
 
 Impact: Highlights the role of econometric analysis in revealing key drivers of compensation and providing an evidence-based approach to assessing pay equity in professional sports. <br> 
 
-## Cook County Housing Price Prediction 
+### Cook County Housing Price Prediction 
 
 Code: 
 
@@ -81,6 +81,22 @@ Technology: Python, pandas, scikit-learn, NumPy, matplotlib <br>
 Results: Achieved strong predictive performance through K-fold cross-validation and metric comparison (RMSE vs. MAPE). Identified a 15–20% overestimation bias in lower-priced neighborhoods. <br>
 
 Impact: Highlights how predictive models can introduce bias and the importance of evaluating fairness in real-world applications. <br>
+
+### Climate Change & Civil Conflict
+
+Code: 
+
+Description: Constructed a panel dataset integrating climate, agricultural, and conflict data to analyze how environmental shocks influence civil conflict risk. Applied fixed effects regression to isolate temperature and precipitation effects while controlling for country and time factors. Replicated a foundational climate-conflict economics study. <br> 
+
+Skills: Panel data analysis, fixed effects modeling, data merging, econometrics, statistical interpretation <br>
+
+Technology: Python, R, pandas, statsmodels <br> 
+
+Results: Found significant relationships between climate anomalies and increased conflict risk in certain contexts. Results aligned with established academic findings. <br> 
+
+Impact: Demonstrates how data can inform policy discussions on climate vulnerability and conflict risk. <br>
+
+
                                                                                                           
 
 
