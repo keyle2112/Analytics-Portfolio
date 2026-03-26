@@ -54,6 +54,7 @@ Results: The model achieved an accuracy of over 90%, with performance optimized 
 
 Impact: Demonstrates how classification systems must balance accuracy with real-world risks, such as filtering legitimate communication. <br> 
 
+
 ### NBA Salary Determinants 
 
 Code: <br> 
@@ -67,6 +68,7 @@ Technology: R, tidyverse, regression modeling, data visualization <br>
 Results: The analysis found that scoring and experience were the strongest predictors of salary, while race and position were not statistically significant after controlling for performance. Results suggest that observable productivity explains much of wage variation, though unobserved factors may still influence compensation. <br>
 
 Impact: Highlights the role of econometric analysis in revealing key drivers of compensation and providing an evidence-based approach to assessing pay equity in professional sports. <br> 
+
 
 ### Cook County Housing Price Prediction 
 
@@ -82,6 +84,7 @@ Results: Achieved strong predictive performance through K-fold cross-validation 
 
 Impact: Highlights how predictive models can introduce bias and the importance of evaluating fairness in real-world applications. <br>
 
+
 ### Climate Change & Civil Conflict
 
 Code: 
@@ -95,6 +98,7 @@ Technology: Python, R, pandas, statsmodels <br>
 Results: Found significant relationships between climate anomalies and increased conflict risk in certain contexts. Results aligned with established academic findings. <br> 
 
 Impact: Demonstrates how data can inform policy discussions on climate vulnerability and conflict risk. <br>
+
 
 ### Minimum Wage Policy & Foreign Investment 
 
@@ -110,6 +114,7 @@ Results: Found that labor availability is a stronger driver of FDI than low wage
 
 Impact: Provides insight into labor policy design for emerging economies competing in global manufacturing. <br> 
 
+
 ### Economic Impact Analysis Mariel Boatlift 
 
 Code: 
@@ -124,7 +129,7 @@ Results: Found no statistically significant negative impact on wages despite a 7
 
 Impact: Demonstrates how empirical analysis can challenge common assumptions about immigration and labor markets. <br>
 
-
+### Regional 
 
 
 
