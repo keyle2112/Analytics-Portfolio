@@ -275,4 +275,4 @@ Pasadena City College — Associate of Arts, Business, Economics UC Transfer Pat
 
 ## Contact 
 * LinkedIn: [@keynesle](https://www.linkedin.com/in/keynesle/)
-* Email: [key_2112@berkeley.edu](mailto:lekeynes1@gmail.com)
+* Email: [lekeynes1@gmail.com](mailto:lekeynes1@gmail.com)
