@@ -38,7 +38,6 @@ For a broader view of my work across culture, live production, and creative proj
 * [Contact](#contact)
 
 ## Projects 
-*insert summary sentence when all projects are added* <br>
 
 ### Email Spam Classification System
 
@@ -276,4 +275,4 @@ Pasadena City College — Associate of Arts, Business, Economics UC Transfer Pat
 
 ## Contact 
 * LinkedIn: [@keynesle](https://www.linkedin.com/in/keynesle/)
-* Email: [key_2112@berkeley.edu](mailto:key_2112@berkeley.edu)
+* Email: [key_2112@berkeley.edu](mailto:lekeynes1@gmail.com)
