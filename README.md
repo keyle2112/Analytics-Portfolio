@@ -5,7 +5,7 @@ I’m Keynes (pronounced Key-eans), a UC Berkeley graduate in Economics with min
 
 Alongside my academic work, I’ve gained experience in live and culture-driven environments, including supporting production for the Super Bowl LX Halftime Show and contributing to music and entertainment initiatives centered on audience engagement. These experiences have shaped how I approach analytics, viewing it not just as numbers but as part of larger systems where timing, coordination, and decision-making matter. I’m particularly interested in applying data analysis within the music and entertainment industry, exploring how audience insights, trends, and behavior can inform strategy and creative direction. 
 
-This repository highlights my work across Python, SQL, and data analysis projects, with a growing focus on music and entertainment applications.
+This repository highlights my work across Python and R projects in econometrics, machine learning, and audience research, with a growing focus on music and entertainment analytics.
 
 For a broader view of my work across culture, live production, and creative projects, visit my [personal website](https://keynesle.com).
 
