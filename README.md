@@ -173,13 +173,13 @@ November 2024 <br>
 
 Description: Built a tower defense game using object-oriented programming concepts including classes, inheritance, and method design, with gameplay mechanics for pathfinding, attack systems, and resource management.
 
-Skills: Object-oriented programming, algorithm design, problem-solving, software development, debugging
+Skills: Object-oriented programming, algorithm design, modular architecture, debugging
 
 Technology: Python
 
-Results: Successfully built a fully functional game with dynamic interactions and scalable design. Demonstrated strong understanding of OOP principles.
+Results: Delivered a fully functional game with dynamic interactions between independent components, structured so new unit types could be added without rewriting existing logic.
 
-Impact: Shows ability to apply programming concepts to build complex, interactive systems.
+Impact: The design habits that keep a game extensible are the same ones that keep an analysis pipeline maintainable: modular components, clear interfaces, and separation between logic and data.
 
 ### CATS: Typing Autocorrect System
 
@@ -187,15 +187,15 @@ October 2024 - November 2024 <br>
 
 [Project Files](projects/Data%20C88C%20Cats.zip) <br>
 
-Description: Designed a typing software system to measure speed and accuracy while implementing autocorrect functionality. Used recursive algorithms and dynamic programming for string comparison. Included multiplayer and real-time feedback features.
+Description: Designed a typing system measuring speed and accuracy with autocorrect functionality, using recursive algorithms and dynamic programming for string comparison, plus multiplayer and real-time feedback features.
 
-Skills: Algorithms, recursion, dynamic programming, string processing, software development
+Skills: Algorithms, recursion, dynamic programming, string processing, performance optimization
 
 Technology: Python
 
-Results: Developed efficient autocorrect and accuracy algorithms with real-time performance tracking. Improved typing feedback accuracy and responsiveness.
+Results: Built an autocorrect engine that matched mistyped input against a reference vocabulary using edit distance, with memoization reducing redundant computation enough to run in real time.
 
-Impact: Demonstrates ability to build optimized algorithms for user-facing applications.
+Impact: Edit distance and fuzzy string matching are the core of record linkage and deduplication, the work required whenever the same artist, venue, or track is spelled three different ways across datasets.
 
 ### Classifying Movies K-NN
 
@@ -221,13 +221,13 @@ March 2024 - April 2024 <br>
 
 Description: Analyzed temperature and precipitation trends across 210 U.S. cities, applying hypothesis testing and confidence intervals to evaluate change over time, with A/B testing on drought conditions.
 
-Skills: Statistical analysis, hypothesis testing, data visualization, data analysis, inference
+Skills: Statistical analysis, hypothesis testing, data visualization, inference
 
 Technology: Python, pandas, matplotlib 
 
 Results: Identified statistically significant warming trends across cities and measurable differences in precipitation during drought periods.
 
-Impact: Demonstrates use of statistical methods to analyze environmental trends.
+Impact: An applied exercise in separating a real trend from year-to-year noise using confidence intervals, rather than reading a direction off a chart.
 
 ### Predicting Baseball Wins: Least Squares Regression
 
@@ -243,7 +243,7 @@ Technology: R
 
 Results: Found run differential to be strongly related to team success, with accuracy improving through added variables and transformations.
 
-Impact: Shows application of regression modeling in sports performance analysis. 
+Impact: Run differential outperforms raw scoring totals as a predictor, a straightforward case of the constructed variable carrying more signal than the one that comes in the dataset.
 
 ### World Population & Poverty Analysis
 
@@ -257,9 +257,9 @@ Skills: Data visualization, statistical analysis, exploratory data analysis
 
 Technology: Python, pandas, matplotlib
 
-Results: Identified strong relationships between development indicators and population dynamics, with clear patterns in global poverty reduction. 
+Results: Identified strong relationships between development indicators and population dynamics, with clear patterns in global poverty reduction.
 
-Impact: Provides insights into global inequality and demographic change using data analysis.
+Impact: Early practice in using visualization to find which relationships across 145 countries were worth modeling formally, before committing to a specification.
 
 ## Education
 University of California, Berkeley, College of Letters and Science - Bachelor of Arts, Economics, Minors in Data Science and Journalism <br>
