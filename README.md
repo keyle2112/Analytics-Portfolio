@@ -265,8 +265,8 @@ Impact: Early practice in using visualization to find which relationships across
 University of California, Berkeley, College of Letters and Science - Bachelor of Arts, Economics, Minors in Data Science and Journalism <br>
 (January 2024 - December 2025) 
 
-Pasadena City College — Associate of Arts, Business, Economics UC Transfer Pathway <br>
-(August 2021 – May 2023)
+Pasadena City College - Associate of Arts, Business, Economics UC Transfer Pathway <br>
+(August 2021 - May 2023)
 
 
 ## Contact & Links 
