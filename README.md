@@ -27,7 +27,6 @@ For a broader view of my work across culture, live production, and creative proj
      * [Classifying Movies (K-Nearest Neighbors)](#classifying-movies-k-nn)
      * [Climate Change: Temperatures and Precipitation](#climate-change-temperature--precipitation-analysis)
      * [World Population and Poverty](#world-population--poverty-analysis)
-  * R
      * [NBA Salary](#nba-salary-determinants)
      * [Climate Change & Civil Conflict](#climate-change--civil-conflict)
      * [Minimum Wage Policy & Foreign Investment](#minimum-wage-policy--foreign-investment)
