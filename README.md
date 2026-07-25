@@ -18,7 +18,7 @@ For a broader view of my work across culture, live production, and creative proj
 * [About](#about)
 * [Skills](#skills)
 * [Projects](#projects)
-     * [NBA Salary](#nba-salary-determinants)
+     * [NBA Salary Determinants](#nba-salary-determinants)
      * [Email Spam Classification System](#email-spam-classification-system)
      * [Cook County Housing Price Prediction](#cook-county-housing-price-prediction)
      * [Minimum Wage Policy & Foreign Investment](#minimum-wage-policy--foreign-investment)
