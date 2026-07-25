@@ -15,7 +15,7 @@
      * [Ants: Data-Driven Tower Defense Game](#ants-data-driven-tower-defense-game)
      * [CATS: Typing Autocorrect System](#cats-typing-autocorrect-system)
      * [Classifying Movies (K-Nearest Neighbors)](#classifying-movies-k-nearest-neighbors)
-     * [Climate Change: Temperatures and Precipitation Analysis](#climate-change-temperature--precipitation-analysis)
+     * [Climate Change: Temperature & Precipitation Analysis](#climate-change-temperature--precipitation-analysis)
      * [Predicting Baseball Wins: Least Squares Regression](#predicting-baseball-wins-least-squares-regression)
      * [World Population & Poverty Analysis](#world-population--poverty-analysis)
 * [Education](#education)
@@ -213,7 +213,7 @@ Results: Improved classification accuracy through feature selection and distance
 
 Impact: An early look at classifying entertainment content by its text, the same problem shape as tagging or categorizing music by lyrical and metadata features.
 
-### Climate Change: Temperatures and Precipitation Analysis
+### Climate Change: Temperature & Precipitation Analysis
 
 March 2024 - April 2024 <br>
 
