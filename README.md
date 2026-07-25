@@ -14,8 +14,6 @@ For a broader view of my work across culture, live production, and creative proj
 * Methods: Econometric modeling, causal inference, panel data and fixed effects, regression analysis, hypothesis testing, machine learning, feature engineering, fairness analysis, geospatial analysis
 * Currently learning: SQL, Tableau, music and entertainment data platforms
 
----
-
 ## Table of Contents
 * [About](#about)
 * [Projects](#projects)
