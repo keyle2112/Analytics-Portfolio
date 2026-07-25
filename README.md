@@ -16,6 +16,7 @@ For a broader view of my work across culture, live production, and creative proj
 
 ## Table of Contents
 * [About](#about)
+* [Skills](#skills)
 * [Projects](#projects)
      * [Email Spam Classification System](#email-spam-classification-system)
      * [Cook County Housing Price Prediction](#cook-county-housing-price-prediction)
