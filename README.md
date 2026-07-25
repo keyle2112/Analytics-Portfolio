@@ -19,7 +19,7 @@
      * [Predicting Baseball Wins: Least Squares Regression](#predicting-baseball-wins-least-squares-regression)
      * [World Population & Poverty Analysis](#world-population--poverty-analysis)
 * [Education](#education)
-* [Contact & Links](#contact-&-links)
+* [Contact & Links](#contact--links)
 
 ## About 
 I'm Keynes (pronounced Key-eans), a UC Berkeley graduate in Economics with minors in Data Science and Journalism, focused on using data to understand human behavior and communicate insights through clear, structured storytelling. My work spans machine learning, econometric analysis, and data-driven projects, with an emphasis on turning analysis into actionable insight rather than just prediction.
