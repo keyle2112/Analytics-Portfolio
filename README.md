@@ -163,7 +163,7 @@ Technology: R, regression modeling <br>
 
 Results: Performance metrics were the strongest predictors of salary, with limited influence from demographic variables. Identified potential omitted variable bias in the specification. <br>
 
-Impact: Naming what a model cannot see is as important as reporting what it found. <br> 
+Impact: Naming what the model cannot observe matters as much as reporting what it found. <br> 
 
 ### Ants: Data-Driven Tower Defense Game
 
