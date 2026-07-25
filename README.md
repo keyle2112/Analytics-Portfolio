@@ -11,7 +11,7 @@
      * [Climate Change & Civil Conflict](#climate-change--civil-conflict)
      * [Economic Impact Analysis: Mariel Boatlift](#economic-impact-analysis-mariel-boatlift)
      * [Regional GDP Analysis](#regional-gdp-analysis)
-     * [Econometric Analysis of MLB Salary Disparities](#econometrics-analysis-of-mlb-salary-disparities-analysis)
+     * [Econometric Analysis of MLB Salary Disparities Analysis](#econometrics-analysis-of-mlb-salary-disparities-analysis)
      * [Ants: Data-Driven Tower Defense Game](#ants-data-driven-tower-defense-game)
      * [CATS: Typing Autocorrect System](#cats-typing-autocorrect-system)
      * [Classifying Movies (K-Nearest Neighbors)](#classifying-movies-k-nn)
