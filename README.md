@@ -29,11 +29,6 @@ For a broader view of my work across culture, live production, and creative proj
      * [Minimum Wage Policy & Foreign Investment](#minimum-wage-policy--foreign-investment)
      * [Econometrics Analysis of MLB Salary Disparities](#econometrics-analysis-of-mlb-salary-disparities-analysis)
      * [Predicting Baseball Wins](#predicting-baseball-wins-least-squares-regression)
-  * SQL
-  * Excel/Google Sheets
-  * Tableau
-  * Power BI
-  * APIs
 * [Education](#education)
 * [Contact](#contact)
 
