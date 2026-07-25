@@ -14,7 +14,7 @@
      * [Econometric Analysis of MLB Salary Disparities Analysis](#econometrics-analysis-of-mlb-salary-disparities-analysis)
      * [Ants: Data-Driven Tower Defense Game](#ants-data-driven-tower-defense-game)
      * [CATS: Typing Autocorrect System](#cats-typing-autocorrect-system)
-     * [Classifying Movies (K-Nearest Neighbors)](#classifying-movies-k-nn)
+     * [Classifying Movies (K-Nearest Neighbors)](#classifying-movies-k-nearest-neighbors)
      * [Climate Change: Temperatures and Precipitation Analysis](#climate-change-temperature--precipitation-analysis)
      * [Predicting Baseball Wins: Least Squares Regression](#predicting-baseball-wins-least-squares-regression)
      * [World Population & Poverty Analysis](#world-population--poverty-analysis)
