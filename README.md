@@ -117,7 +117,7 @@ Results: Found significant relationships between climate anomalies and increased
 
 Impact: Replication under independent construction of the dataset is a test of whether a published result holds up, not just a restatement of it. <br>
 
-### Economic Impact Analysis Mariel Boatlift
+### Economic Impact Analysis: Mariel Boatlift
 
 February 2025 - March 2025 <br>
 
