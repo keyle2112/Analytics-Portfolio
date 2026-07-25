@@ -30,7 +30,7 @@ For a broader view of my work across culture, live production, and creative proj
      * [CATS: Typing Autocorrect System](#cats-typing-autocorrect-system)
      * [Classifying Movies (K-Nearest Neighbors)](#classifying-movies-k-nn)
      * [Climate Change: Temperatures and Precipitation Analysis](#climate-change-temperature--precipitation-analysis)
-     * [Predicting Baseball Wins](#predicting-baseball-wins-least-squares-regression)
+     * [Predicting Baseball Wins: Least Squares Regression](#predicting-baseball-wins-least-squares-regression)
      * [World Population & Poverty Analysis](#world-population--poverty-analysis)
 * [Education](#education)
 * [Contact & Links](#contact)
@@ -149,7 +149,7 @@ Results: Identified stronger post-2008 recovery in coastal regions than in the M
 
 Impact: Shows how restructuring a dataset into the right shape is often the step that makes a pattern visible at all. <br> 
 
-### Econometrics Analysis of MLB Salary Disparities Analysis
+### Econometric Analysis of MLB Salary Disparities Analysis
 
 November 2024 - December 2024 <br>
 
@@ -197,7 +197,7 @@ Results: Built an autocorrect engine that matched mistyped input against a refer
 
 Impact: Edit distance and fuzzy string matching are the core of record linkage and deduplication, the work required whenever the same artist, venue, or track is spelled three different ways across datasets.
 
-### Classifying Movies K-NN
+### Classifying Movies (K-Nearest Neighbors)
 
 April 2024 <br>
 
@@ -213,7 +213,7 @@ Results: Improved classification accuracy through feature selection and distance
 
 Impact: An early look at classifying entertainment content by its text, the same problem shape as tagging or categorizing music by lyrical and metadata features.
 
-### Climate Change: Temperature & Precipitation Analysis
+### Climate Change: Temperatures and Precipitation Analysis
 
 March 2024 - April 2024 <br>
 
