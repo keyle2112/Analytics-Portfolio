@@ -273,7 +273,7 @@ Pasadena City College — Associate of Arts, Business, Economics UC Transfer Pat
 (August 2021 – May 2023)
 
 
-## Contact 
-* LinkedIn: [@keynesle](https://www.linkedin.com/in/keynesle/)
+## Contact & Links 
 * Email: [lekeynes1@gmail.com](mailto:lekeynes1@gmail.com)
+* LinkedIn: [@keynesle](https://www.linkedin.com/in/keynesle/)
 * Website : [keynesle.com](https://keynesle.com/)
