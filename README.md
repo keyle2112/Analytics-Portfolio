@@ -115,7 +115,7 @@ Technology: Python, R, pandas, statsmodels <br>
 
 Results: Found significant relationships between climate anomalies and increased conflict risk in specific contexts, aligning with established academic findings. <br> 
 
-Impact: Replication under independent construction of the dataset is a test of whether a published result holds up, not just a restatement of it. <br>
+Impact: Building the dataset independently makes the replication a real test of whether the published result holds, not a restatement of it. <br>
 
 ### Economic Impact Analysis: Mariel Boatlift
 
