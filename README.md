@@ -57,8 +57,6 @@ Impact: Shows how econometric controls separate real drivers of talent compensat
 
 November 2025 - December 2025 <br>
 
-[Part 1 Notebook](projects/projB1.ipynb) | [Part 1 PDF](projects/projB1.pdf) | [Part 2 Notebook](projects/projB2.ipynb) | [Part 2 PDF](projects/projB2.pdf) <br>
-
 Description: Built a supervised machine learning pipeline for email classification using a dataset of over 5,000 messages. The workflow included text preprocessing, feature engineering, model training, and evaluation. Key features were derived using regex-based pattern extraction, word frequency metrics, and text statistics including email length, punctuation counts, and capitalization patterns. <br>
 
 Skills: Feature engineering, text preprocessing, classification modeling, cross-validation, model evaluation (precision-recall, ROC analysis) <br>
@@ -72,8 +70,6 @@ Impact: Illustrates why headline accuracy is an insufficient success metric when
 ### Cook County Housing Price Prediction
 
 October 2025 <br>
-
-[Part 1 Notebook](projects/projA1.ipynb) | [Part 1 PDF](projects/projA1.pdf) | [Part 2 Notebook](projects/projA2.ipynb) | [Part 2 PDF](projects/projA2.pdf) <br>
 
 Description: Built a machine learning model to predict housing prices using 500k+ property records, applying feature engineering techniques including text mining, log transformations, and one-hot encoding. Developed a full pipeline covering preprocessing, training, and evaluation in scikit-learn, then incorporated fairness analysis to assess model bias across socioeconomic groups. <br>
 
@@ -169,8 +165,6 @@ Impact: Naming what the model cannot observe matters as much as reporting what i
 
 November 2024 <br>
 
-[Project Files](projects/Data%20C88C%20Ants.zip) <br>
-
 Description: Built a tower defense game using object-oriented programming concepts including classes, inheritance, and method design, with gameplay mechanics for pathfinding, attack systems, and resource management.
 
 Skills: Object-oriented programming, algorithm design, modular architecture, debugging
@@ -184,8 +178,6 @@ Impact: The design habits that keep a game extensible are the same ones that kee
 ### CATS: Typing Autocorrect System
 
 October 2024 - November 2024 <br>
-
-[Project Files](projects/Data%20C88C%20Cats.zip) <br>
 
 Description: Designed a typing system measuring speed and accuracy with autocorrect functionality, using recursive algorithms and dynamic programming for string comparison, plus multiplayer and real-time feedback features.
 
