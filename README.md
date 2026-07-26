@@ -11,7 +11,7 @@
      * [Climate Change & Civil Conflict](#climate-change--civil-conflict)
      * [Economic Impact Analysis: Mariel Boatlift](#economic-impact-analysis-mariel-boatlift)
      * [Regional GDP Analysis](#regional-gdp-analysis)
-     * [Econometric Analysis of MLB Salary Disparities Analysis](#econometrics-analysis-of-mlb-salary-disparities-analysis)
+     * [Econometric Analysis of MLB Salary Disparities](#econometrics-analysis-of-mlb-salary-disparities)
      * [Classifying Movies (K-Nearest Neighbors)](#classifying-movies-k-nearest-neighbors)
      * [Climate Change: Temperature & Precipitation Analysis](#climate-change-temperature--precipitation-analysis)
      * [Predicting Baseball Wins: Least Squares Regression](#predicting-baseball-wins-least-squares-regression)
@@ -143,7 +143,7 @@ Results: Identified stronger post-2008 recovery in coastal regions than in the M
 
 Impact: Shows how restructuring a dataset into the right shape is often the step that makes a pattern visible at all. <br> 
 
-### Econometric Analysis of MLB Salary Disparities Analysis
+### Econometric Analysis of MLB Salary Disparities
 
 November 2024 - December 2024 <br>
 
