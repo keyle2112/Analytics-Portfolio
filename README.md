@@ -12,8 +12,6 @@
      * [Economic Impact Analysis: Mariel Boatlift](#economic-impact-analysis-mariel-boatlift)
      * [Regional GDP Analysis](#regional-gdp-analysis)
      * [Econometric Analysis of MLB Salary Disparities Analysis](#econometrics-analysis-of-mlb-salary-disparities-analysis)
-     * [Ants: Data-Driven Tower Defense Game](#ants-data-driven-tower-defense-game)
-     * [CATS: Typing Autocorrect System](#cats-typing-autocorrect-system)
      * [Classifying Movies (K-Nearest Neighbors)](#classifying-movies-k-nearest-neighbors)
      * [Climate Change: Temperature & Precipitation Analysis](#climate-change-temperature--precipitation-analysis)
      * [Predicting Baseball Wins: Least Squares Regression](#predicting-baseball-wins-least-squares-regression)
@@ -160,34 +158,6 @@ Technology: R, regression modeling <br>
 Results: Performance metrics were the strongest predictors of salary, with limited influence from demographic variables. Identified potential omitted variable bias in the specification. <br>
 
 Impact: Naming what the model cannot observe matters as much as reporting what it found. <br> 
-
-### Ants: Data-Driven Tower Defense Game
-
-November 2024 <br>
-
-Description: Built a tower defense game using object-oriented programming concepts including classes, inheritance, and method design, with gameplay mechanics for pathfinding, attack systems, and resource management.
-
-Skills: Object-oriented programming, algorithm design, modular architecture, debugging
-
-Technology: Python
-
-Results: Delivered a fully functional game with dynamic interactions between independent components, structured so new unit types could be added without rewriting existing logic.
-
-Impact: The design habits that keep a game extensible are the same ones that keep an analysis pipeline maintainable: modular components, clear interfaces, and separation between logic and data.
-
-### CATS: Typing Autocorrect System
-
-October 2024 - November 2024 <br>
-
-Description: Designed a typing system measuring speed and accuracy with autocorrect functionality, using recursive algorithms and dynamic programming for string comparison, plus multiplayer and real-time feedback features.
-
-Skills: Algorithms, recursion, dynamic programming, string processing, performance optimization
-
-Technology: Python
-
-Results: Built an autocorrect engine that matched mistyped input against a reference vocabulary using edit distance, with memoization reducing redundant computation enough to run in real time.
-
-Impact: Edit distance and fuzzy string matching are the core of record linkage and deduplication, the work required whenever the same artist, venue, or track is spelled three different ways across datasets.
 
 ### Classifying Movies (K-Nearest Neighbors)
 
