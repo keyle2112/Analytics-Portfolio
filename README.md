@@ -64,7 +64,7 @@ November 2025 - December 2025
  
 **Results:** The model achieved over 90% accuracy with an AUC of 0.943, optimized through multiple iterations of hyperparameter tuning. Precision-recall analysis was used to balance spam detection against the risk of blocking legitimate mail.
  
-![ROC curve for the logistic regression spam classifier, AUC 0.943](images/Email_Spam_ROC_Curve.png)
+![ROC curve for the logistic regression spam classifier, AUC 0.943](Email_Spam_ROC_Curve.png)
  
 *The curve maps the tradeoff between catching spam and wrongly flagging real mail. The steep climb near the left edge means roughly 80% of spam can be caught while misflagging under 10% of legitimate messages.*
  
