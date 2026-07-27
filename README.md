@@ -66,7 +66,7 @@ November 2025 - December 2025
  
 ![ROC curve for the logistic regression spam classifier, AUC 0.943](Email_Spam_ROC_Curve.png)
  
-*The curve maps the tradeoff between catching spam and wrongly flagging real mail. The steep climb near the left edge means roughly 80% of spam can be caught while misflagging under 10% of legitimate messages.*
+*The curve maps the tradeoff between catching spam and wrongly flagging real mail. The steep climb near the left edge means roughly 80% of spam can be caught while while wrongly flagging under 10% of legitimate messages*
  
 **Impact:** Illustrates why headline accuracy is an insufficient success metric when the two error types carry unequal real-world cost.
  
