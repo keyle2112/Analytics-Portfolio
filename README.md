@@ -40,7 +40,7 @@ For a broader view of my work across culture, live production, and creative proj
  
 September 2025 - December 2025
 
-[Read the full paper (PDF)](https://github.com/keyle2112/Analytics-Portfolio/blob/main/projects/Labor%20Economics%20NBA%20Salary%20Determinants%20Project.pdf)
+[Read the full paper (PDF)](https://github.com/keyle2112/Analytics-Portfolio/blob/main/assets/Labor%20Economics%20NBA%20Salary%20Determinants%20Project.pdf)
  
 **Description:** Applied econometric regression techniques to analyze salary determinants for 269 NBA players from the 1994-95 season. Used log-transformed salary data to address skewness and incorporated performance metrics, experience, position, and race as explanatory variables. Evaluated how on-court productivity translated into wages using both simple and multivariate OLS models.
  
@@ -92,7 +92,7 @@ October 2025
  
 January 2025 - May 2025
  
-[Read the full paper (PDF)](https://github.com/keyle2112/Analytics-Portfolio/blob/main/projects/Minimum%20Wage%20Policy%20%26%20Foreign%20Investment.pdf)
+[Read the full paper (PDF)](https://github.com/keyle2112/Analytics-Portfolio/blob/main/assets/Minimum%20Wage%20Policy%20%26%20Foreign%20Investment.pdf)
  
 **Description:** Conducted panel econometric analysis examining how minimum wage policies and labor availability influence FDI inflows in Southeast Asia. Integrated datasets from ILOSTAT and the World Bank, controlling for macroeconomic variables, and applied fixed effects models to isolate labor policy impacts.
  
@@ -108,7 +108,7 @@ January 2025 - May 2025
  
 April 2025 - May 2025
  
-[Read the full paper (PDF)](https://github.com/keyle2112/Analytics-Portfolio/blob/main/projects/Econ%20148%20Climate%20Change%20%26%20Civil%20Conflict.pdf)
+[Read the full paper (PDF)](https://github.com/keyle2112/Analytics-Portfolio/blob/main/assets/Econ%20148%20Climate%20Change%20%26%20Civil%20Conflict.pdf)
  
 **Description:** Constructed a panel dataset integrating climate, agricultural, and conflict data to analyze how environmental shocks influence civil conflict risk. Applied fixed effects regression to isolate temperature and precipitation effects while controlling for country and time factors, replicating a foundational climate-conflict economics study.
  
@@ -160,7 +160,7 @@ February 2025
  
 November 2024 - December 2024
  
-[Read the full paper (PDF)](https://github.com/keyle2112/Analytics-Portfolio/blob/main/projects/Econometrics%20Analysis%20of%20MLB%20Salary%20Disparities.pdf)
+[Read the full paper (PDF)](https://github.com/keyle2112/Analytics-Portfolio/blob/main/assets/Econometrics%20Analysis%20of%20MLB%20Salary%20Disparities.pdf)
  
 **Description:** Analyzed MLB salary determinants using regression models to evaluate the impact of race, city demographics, and performance metrics. Applied econometric techniques to control for confounding variables and explored potential bias and omitted variable effects.
  
