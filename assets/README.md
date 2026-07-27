@@ -39,7 +39,7 @@ For a broader view of my work across culture, live production, and creative proj
 ### NBA Salary Determinants
  
 September 2025 - December 2025
- 
+
 [Read the full paper (PDF)](https://github.com/keyle2112/Analytics-Portfolio/blob/main/projects/Labor%20Economics%20NBA%20Salary%20Determinants%20Project.pdf)
  
 **Description:** Applied econometric regression techniques to analyze salary determinants for 269 NBA players from the 1994-95 season. Used log-transformed salary data to address skewness and incorporated performance metrics, experience, position, and race as explanatory variables. Evaluated how on-court productivity translated into wages using both simple and multivariate OLS models.
@@ -64,7 +64,7 @@ November 2025 - December 2025
  
 **Results:** The model achieved over 90% accuracy with an AUC of 0.943, optimized through multiple iterations of hyperparameter tuning. Precision-recall analysis was used to balance spam detection against the risk of blocking legitimate mail.
  
-![ROC curve for the logistic regression spam classifier, AUC 0.943](Email_Spam_ROC_Curve.png)
+![ROC curve for the logistic regression spam classifier, AUC 0.943](assets/Email_Spam_ROC_Curve.png)
  
 *The curve maps the tradeoff between catching spam and wrongly flagging real mail. The steep climb near the left edge means roughly 80% of spam can be caught while while wrongly flagging under 10% of legitimate messages*
  
@@ -82,7 +82,7 @@ October 2025
  
 **Results:** Achieved strong predictive performance through K-fold cross-validation and metric comparison (RMSE vs. MAPE). Identified a 15-20% overestimation bias in lower-priced neighborhoods that aggregate accuracy alone concealed.
  
-![RMSE and percentage of homes overestimated, both plotted across log sale price intervals](Cook_County_Fairness_Graph.png)
+![RMSE and percentage of homes overestimated, both plotted across log sale price intervals](assets/Cook_County_Fairness_Graph.png)
  
 *RMSE is lowest at the bottom of the price range, which makes the model look accurate there. The right panel shows the opposite: nearly 100% of the cheapest homes are overvalued, while under 10% of the most expensive ones are.*
  
@@ -132,7 +132,7 @@ February 2025 - March 2025
  
 **Results:** Found no statistically significant negative impact on wages despite a 7% labor force increase, supporting the conclusions of the original study.
  
-![Log wages in Miami versus comparison cities from 1979 to 1985, split by demographic group](Mariel_Boatlift_Trends.png)
+![Log wages in Miami versus comparison cities from 1979 to 1985, split by demographic group](assets/Mariel_Boatlift_Trends.png)
  
 *Miami and the comparison cities rise together both before and after the 1980 boatlift, marked by the dashed line. That continued parallel movement is what makes the absence of a wage effect credible rather than coincidental.*
  
@@ -150,7 +150,7 @@ February 2025
  
 **Results:** Identified stronger post-2008 recovery in coastal regions than in the Midwest, with growth concentrated in urban and tech-driven areas.
  
-![County-level percentage change in real GDP across the United States in 2002, 2008, and 2020](regional-gdp-maps-2002-2008-2020.png)
+![County-level percentage change in real GDP across the United States in 2002, 2008, and 2020](assets/regional-gdp-maps-2002-2008-2020.png)
  
 *Three snapshots on a shared color scale. Mapping every county turns a national average into a geography and shows how unevenly each period was distributed across the country.*
  
@@ -184,7 +184,7 @@ April 2024
  
 **Results:** Improved classification accuracy through feature selection and distance tuning, identifying the word associations driving genre prediction.
  
-![Movies plotted by the frequency of the words water and feel, colored by genre](Classifying_Movies_Graph.png)
+![Movies plotted by the frequency of the words water and feel, colored by genre](assets/Classifying_Movies_Graph.png)
  
 *Each film becomes a point in keyword space. Adding The Silence of the Lambs to the training set moves the nearest neighbor of the unlabeled film, flipping its predicted genre from comedy to thriller.*
  
@@ -202,7 +202,7 @@ March 2024 - April 2024
  
 **Results:** Identified statistically significant warming trends across cities and measurable differences in precipitation during drought periods.
  
-![Average maximum and minimum temperatures across U.S. cities from 1896 to 2020](Temperature_Trends_1900-2020.png)
+![Average maximum and minimum temperatures across U.S. cities from 1896 to 2020](assets/Temperature_Trends_1900-2020.png)
  
 *Both daily highs and daily lows trend upward across 120 years, but nighttime lows climb far more sharply after 1960, rising roughly 10 degrees while daytime highs rise about 5.*
  
@@ -220,7 +220,7 @@ March 2024 - April 2024
  
 **Results:** Runs alone explained 61% of variation in wins. Adding runs allowed raised this to 79%, and log transformations across runs, runs allowed, doubles, and saves reached 94%.
  
-![Team runs scored plotted against season wins, with fitted regression line](Runs_vs_Wins_Graph.png)
+![Team runs scored plotted against season wins, with fitted regression line](assets/Runs_vs_Wins_Graph.png)
  
 *The small cluster in the lower left is the shortened 2020 COVID season, a reminder that structural breaks in the data can distort a fitted line if left unexamined.*
  
@@ -238,7 +238,7 @@ February 2024
  
 **Results:** Identified strong relationships between development indicators and population dynamics, with clear patterns in global poverty reduction.
  
-![Distribution of children per woman across countries in 1962 compared with 2010](Fertility_1962_vs_2010.png)
+![Distribution of children per woman across countries in 1962 compared with 2010](assets/Fertility_1962_vs_2010.png)
  
 *In 1962 the distribution peaked near six or seven children per woman. By 2010 it had collapsed toward two, one of the largest demographic shifts ever recorded.*
  
