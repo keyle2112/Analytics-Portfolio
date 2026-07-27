@@ -244,8 +244,6 @@ February 2024
  
 **Impact:** Early practice in using visualization to find which relationships across 145 countries were worth modeling formally, before committing to a specification.
  
----
- 
 ## Education
  
 **University of California, Berkeley** — College of Letters and Science
@@ -254,8 +252,6 @@ January 2024 - December 2025
  
 **Pasadena City College** — Associate of Arts, Business, Economics UC Transfer Pathway
 August 2021 - May 2023
- 
----
  
 ## Contact & Links
  
